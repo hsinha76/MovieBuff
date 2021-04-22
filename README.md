@@ -9,3 +9,5 @@ A simple android app that fetches list of popular movies along with its details 
 ## Demo
 
 <img src ="https://github.com/hsinha76/MovieBuff/blob/master/VIDEO-2021-04-22-21-45-17.gif"/>
+
+<small>Make sure to place your own key at /Api/InterfaceAPI.java</small>
